@@ -55,6 +55,12 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 7. Compila y ejecuta el proyecto desde tu IDE.
 
+## Referencias
+
+Alura: Curso sobre Programación Orientada a Objetos
+Todo Code: [Curso sobre Programación Orientada a Objetos](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwNP20GMMCjRslRq2lOLWlg)
+GeeksforGeeks: Guías sobre Java y POO
+
 ## Interfaz del Proyecto en Acción 🚀
 
 <div align="center">
