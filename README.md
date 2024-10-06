@@ -1,4 +1,6 @@
-# Practica POO de formas Geométricas
+<div align="center">
+Practica POO de formas Geométricas 🟢🟦
+</div>
 
 ## Descripción del Proyecto
 Este proyecto es una aplicación de escritorio en Java que permite crear y gestionar formas geométricas, como cuadrados y círculos, 
