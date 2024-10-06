@@ -9,6 +9,11 @@ Este proyecto es una aplicación de escritorio en Java que permite crear y gesti
 mediante una interfaz gráfica de usuario (GUI). La aplicación utiliza las librerías AWT y Swing para manejar eventos y crear componentes de la interfaz. 
 El objetivo principal de este proyecto es implementar y aplicar los principios de la Programación Orientada a Objetos (POO).
 
+<div align="center">
+   
+![Formas Geométricas](formas.png)
+
+</div>
 
 ## Características
 
