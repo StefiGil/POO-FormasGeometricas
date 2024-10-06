@@ -1,5 +1,5 @@
 <div align="center">
-Practica POO de formas Geométricas 🟢🟦
+# Practica POO de formas Geométricas 🟢🟦
 </div>
 
 ## Descripción del Proyecto
