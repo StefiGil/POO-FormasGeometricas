@@ -37,7 +37,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 3. Navega al directorio del proyecto:
    
-   cd PracticaPOOFormasGeometricas
+  `cd PracticaPOOFormasGeometricas`
    
 5. Abre el proyecto en el IDE que utilices.
 
