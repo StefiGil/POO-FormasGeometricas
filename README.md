@@ -33,9 +33,10 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
    
 2. Clona este repositorio en tu máquina local ejecutando el siguiente comando en tu terminal:
    ```bash
-   git clone https://github.com/tu_usuario/formasgeometricas.git
+   git clone https://github.com/tu_usuario/formasgeometricas.git](https://github.com/StefiGil/PracticaPOO_FormasGeometricas.git)
 
 3. Navega al directorio del proyecto:
+   
    cd PracticaPOOFormasGeometricas
    
 5. Abre el proyecto en el IDE que utilices.
